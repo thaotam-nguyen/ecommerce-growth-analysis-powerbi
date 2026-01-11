@@ -53,7 +53,8 @@ This project follows a **hypothesis-driven, MECE-based** approach:
      └── AOV
          ├── Items per Order
          └── Revenue per Item
-     ![Issue Tree](images/issue_tree.png)
+     
+![Issue Tree](images/issue_tree.png)
 
 2. Identify required data to answer each branch
 
@@ -186,7 +187,7 @@ Each sheet answers a distinct strategic question.
 ---
 
 ### 06. Discount
-![Discount](discount_overview.png)
+![Discount Overview](discount_overview.png)
 **Purpose:** Assess whether growth is “bought” or organic.
 
 **Key Insights:**
