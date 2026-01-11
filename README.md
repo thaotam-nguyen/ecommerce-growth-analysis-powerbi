@@ -187,7 +187,7 @@ Each sheet answers a distinct strategic question.
 ---
 
 ### 06. Discount
-![Discount Overview](discount_overview.png)
+![Discount Overview](images/discount_overview.png)
 **Purpose:** Assess whether growth is “bought” or organic.
 
 **Key Insights:**
